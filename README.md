@@ -13,7 +13,7 @@ project2 파일 >
 
 
 ## django를 통해서 웹사이트에 결과 띄움
-![Image](1.png)
+
 ![Image](Screenshot.png)           
            
            
