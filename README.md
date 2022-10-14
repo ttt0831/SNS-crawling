@@ -1,4 +1,4 @@
- 🔶 #SNS-crawling
+# SNS-crawling
 
 project 파일 > 야마다 박사님 코드 vscode에 정리하여 옮김
 
